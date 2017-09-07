@@ -1,0 +1,53 @@
+<application>
+  <component name="libraryTable">
+    <library name="fabricjs" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://E:/libs/fabric.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://E:/libs/fabric.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://fabricjs.com/docs/" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jQuery-2.0.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="sbis3-controls" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://E:/repo/sbis3-controls" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://E:/repo/sbis3-controls" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ws" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://E:/dev/dev-spring/www/ws" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://E:/dev/dev-spring.march/www/ws" />
+        <root url="file://E:/dev/dev-spring/www/ws" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
