@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="pri" value="echo &quot;&lt;pre&gt;&quot;;&#10;print_r();&#10;echo &quot;&lt;/pre&gt;&quot;;" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>
